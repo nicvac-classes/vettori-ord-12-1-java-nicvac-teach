@@ -4,7 +4,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-// Classe principale, con metodo main
+// Classe principale, con metodo main 
 class Esercizio {
 
     private static Random random = new Random();
